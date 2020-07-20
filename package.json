@@ -1,0 +1,22 @@
+{
+  "name": "fep-javascript",
+  "version": "1.0.0",
+  "description": "Course materials for FEP JavaScript course",
+  "main": "02-multiple-routes/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpdts/fep-javascript.git"
+  },
+  "author": "Ben Collier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpdts/fep-javascript/issues"
+  },
+  "homepage": "https://github.com/bpdts/fep-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
